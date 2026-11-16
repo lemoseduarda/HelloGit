@@ -1,2 +1,1 @@
-def remover(lista, elemento):
-    lista.remove(elemento)
+# oi eduarda
